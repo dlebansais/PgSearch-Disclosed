@@ -1,3 +1,7 @@
+# 1.0.0.452
+
+This version introduces the first links to the wiki, with the support of all items sold by NPC vendors.
+
 # 1.0.0.441
 
 This release includes many improvements:
