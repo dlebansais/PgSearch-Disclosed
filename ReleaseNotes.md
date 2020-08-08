@@ -1,3 +1,9 @@
+# 1.0.0.457
+
+This version fixes a bug in the list of items displayed for each NPC preferences. Previously, keywords were combined with OR and too many items were displayed, including some that the NPC doesn't particularly like. They are now combined with AND.
+
+This version also displays abilities and recipes that a NPC gives, either through training or hangout.
+
 # 1.0.0.452
 
 This version introduces the first links to the wiki, with the support of all items sold by NPC vendors.
