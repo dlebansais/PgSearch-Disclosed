@@ -1,3 +1,7 @@
+# 1.0.0.460
+
+Items that various NPC can barter have been added.
+
 # 1.0.0.457
 
 This version fixes a bug in the list of items displayed for each NPC preferences. Previously, keywords were combined with OR and too many items were displayed, including some that the NPC doesn't particularly like. They are now combined with AND.
