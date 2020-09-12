@@ -1,3 +1,7 @@
+# 1.0.0.512
+
+Update to client 337
+
 # 1.0.0.460
 
 Items that various NPC can barter have been added.
