@@ -1,3 +1,7 @@
+# 1.0.0.527
+
+Fixed and improved the download and display of new icons added by a patch.
+
 # 1.0.0.512
 
 Update to client 337
