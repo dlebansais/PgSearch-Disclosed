@@ -1,3 +1,7 @@
+# 1.0.0.529
+
+A big display bug was fixed. So big I hadn't seen it.
+
 # 1.0.0.527
 
 Fixed and improved the download and display of new icons added by a patch.
