@@ -1,3 +1,7 @@
+# 1.0.0.534
+
+Update to client 338. Also includes a fix to the update checker.
+
 # 1.0.0.529
 
 A big display bug was fixed. So big I hadn't seen it.
