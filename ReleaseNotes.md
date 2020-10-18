@@ -1,3 +1,7 @@
+# 1.0.0.535
+
+Update to client 339
+
 # 1.0.0.534
 
 Update to client 338. Also includes a fix to the update checker.
