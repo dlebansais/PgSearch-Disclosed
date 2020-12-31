@@ -1,3 +1,9 @@
+# 1.1.341.556
+
+Two bug fixes:
++ The search now properly looks for keywords in items. Previously when searching for "Holy" it would not return items with the *Holy Symbol* keyword for instance.
++ The application icon was bad sometimes and has been fixed.
+
 # 1.0.0.548
 
 Update to client 341
