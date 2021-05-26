@@ -1,3 +1,7 @@
+# 1.1.346.559
+
+Update to client 346 (May 24th, 2021).
+
 # 1.1.342.557
 
 Update to client 342 (March 25th, 2021).
