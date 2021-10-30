@@ -1,3 +1,7 @@
+# 1.1.353.564
+
+Update to client 353 (Oct 30, 2021).
+
 # 1.1.352.564
 
 Update to client 352 (Halloween) (Oct 16th, 2021).
