@@ -1,4 +1,4 @@
 # PgSearch
 
-A tool to search through public data in the Project: Gorgon MMORPG. You can download the latest version (for client 357) [here](https://github.com/dlebansais/PgSearch-Disclosed/releases/download/v1.1.357.565/PgSearch.exe).
+A tool to search through public data in the Project: Gorgon MMORPG. You can download the latest version (for client 358) [here](https://github.com/dlebansais/PgSearch-Disclosed/releases/download/v1.1.358.565/PgSearch.exe).
 There are also some [release notes](https://github.com/dlebansais/PgSearch-Disclosed/blob/master/ReleaseNotes.md).
