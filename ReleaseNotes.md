@@ -1,3 +1,10 @@
+# 1.1.363.576
+
+This release includes:
++ An update to client 363 (Apr 27 022).
++ Many changes in the app design.
++ A fix for a crash when trying to detect updates.
+
 # 1.1.360.567
 
 Update to client 360 (Mar 16, 2022).
