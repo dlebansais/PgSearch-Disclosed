@@ -1,3 +1,9 @@
+# 1.1.364.581
+
+Update to client 364 (June 10 2022).
+
+Also includes a fix for recipes that must be used in quests (ex: caravan quests).
+
 # 1.1.363.576
 
 This release includes:
