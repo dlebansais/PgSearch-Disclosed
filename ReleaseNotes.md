@@ -1,3 +1,7 @@
+# 1.1.369.584
+
+Update to client 369 (October 10 2022).
+
 # 1.1.367.584
 
 Update to client 367 (Bug-fix update, June 26 2022).
