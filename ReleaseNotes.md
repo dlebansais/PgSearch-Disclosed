@@ -1,3 +1,6 @@
+# 1.1.394.664
+Update to client 394 (August 12, 2023).
+
 # 1.1.392.663
 Update to client 392 (July 20, 2023).
 
