@@ -1,3 +1,8 @@
+# 1.1.399.668
+Update to client 399 (December 7, 2023).
+
+Includes the new profile data, although it is not directly searchable.
+
 # 1.1.397.665
 Update to client 397 (November 17, 2023).
 
