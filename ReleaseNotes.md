@@ -1,3 +1,6 @@
+# 1.1.411.696
+Update to client 411 (Aug 13, 2024).
+
 # 1.1.409.695
 Update to client 409 (July 30, 2024).
 
