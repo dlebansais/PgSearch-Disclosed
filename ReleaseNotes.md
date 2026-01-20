@@ -1,3 +1,6 @@
+# 2.0.447.716
+Update to client 447 (Jan 17th 2026)
+
 # 2.0.439.716
 Enabling the check for update feature would crash the app. This has been fixed.
 
