@@ -1,3 +1,6 @@
+# 2.0.469.716
+Update to client 469 (April 16th 2026).
+
 # 2.0.461.716
 Update to client 461 (Feb 26th 2026).
 
